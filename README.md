@@ -13,9 +13,7 @@
     alt="seyidahmadova"
   />
 </p>
-
-- 🔭 I’m currently working on [Gramy
-App](https://github.com/Seyidahmadova/Gramy-App.git) 
+ 
 - 🌱 I’m currently learning
 **React & Redux** 
 - 📫 How to reach me **romaseyidahmedov@gmail.com**
