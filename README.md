@@ -15,7 +15,7 @@
 </p>
  
 - 🌱 I’m currently learning
-**Time Series Analysis** 
+**Data Science** 
 - 📫 How to reach me **romaseyidahmedov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
